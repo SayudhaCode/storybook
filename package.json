@@ -1,0 +1,28 @@
+{
+  "name": "@sayudhastudio/storybook-component",
+  "version": "1.0.0",
+  "description": "A Storybook Component Library made initally for GeekSeat Company recruitment process only!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayudhaStudio/storybook.git"
+  },
+  "author": "Sayudha Lukita Wibisana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayudhaStudio/storybook/issues"
+  },
+  "homepage": "https://github.com/SayudhaStudio/storybook#readme",
+  "peerDependencies": {
+    "react": ">=16.12.0",
+    "react-dom": ">=16.12.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.14",
+    "@types/react-dom": "^18.0.5",
+    "typescript": "^4.7.4"
+  }
+}
